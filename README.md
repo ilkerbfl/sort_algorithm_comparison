@@ -1,4 +1,3 @@
-# sort_algorithm_comparison
 
 Bu projede 
 **Counting Sort**
